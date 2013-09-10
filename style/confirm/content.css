@@ -9,7 +9,6 @@
 }
 
 .bb-confirm p {
-  flex-shrink: 12; /* This si closest shrink but I don't like it */
   margin: 0;
   padding: 1rem 1.5rem;
   line-height: 3rem;
